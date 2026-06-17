@@ -249,6 +249,63 @@ Shenzhen's unique position as China's leading innovation hub creates both opport
 
 Located at 17F, Shangbu Building, Futian District — Shenzhen's central business district — Guangdong Faniu Law Firm is strategically positioned to serve clients across the Greater Bay Area. The firm's proximity to key government offices, courts, arbitration institutions, and financial centers enables responsive and efficient legal service delivery.
 
+
+## Securities Fraud: The Investigation Process
+
+### CSRC Investigation Initiation
+
+The investigation process typically begins with the CSRC's enforcement division identifying potential violations through:
+
+1. **Market Surveillance Systems**: Automated detection of unusual trading patterns, price anomalies, or volume spikes.
+2. **Whistleblower Reports**: Reports through the CSRC's whistleblower program, which offers financial rewards for information leading to successful enforcement.
+3. **Media Reports**: Public reporting of potential violations that triggers regulatory attention.
+4. **Inter-Agency Referrals**: Referrals from other regulatory bodies, stock exchanges, or self-regulatory organizations.
+
+### Evidence Collection Phase
+
+During the investigation phase, the CSRC employs extensive evidence collection powers:
+
+1. **Document Production**: Requiring production of all relevant documents, including electronic communications, trading records, and financial statements.
+2. **On-Site Inspection**: Conducting on-site inspections of business premises with authority to seal and copy documents.
+3. **Interviews**: Interviewing relevant personnel, who are legally obligated to cooperate with the investigation.
+4. **Account Freeze**: Applying to courts for freezing of bank accounts and securities accounts suspected of containing proceeds of violations.
+
+### Administrative-to-Criminal Transition
+
+When the CSRC determines that evidence may constitute criminal conduct:
+
+1. **Case Assessment**: The CSRC's enforcement committee evaluates whether the evidence meets the threshold for criminal referral.
+2. **Evidence Transfer**: Case materials are transferred to public security organs (公安机关) with jurisdiction over economic crimes.
+3. **Parallel Proceedings**: Administrative proceedings may continue alongside criminal investigation, with administrative penalties potentially offset against criminal fines.
+
+## Trial Phase Defense Strategies
+
+### Pre-Trial Preparation
+
+Effective trial preparation requires:
+
+1. **Complete Evidence Review**: Thorough review of all prosecution evidence through defense counsel's right to examine case files (阅卷权).
+2. **Independent Investigation**: Conducting independent investigation to identify exculpatory evidence and alternative explanations.
+3. **Expert Engagement**: Retaining qualified experts to provide independent analysis of financial and technical issues.
+4. **Defense Theory Development**: Developing a coherent defense theory supported by both factual evidence and legal argument.
+
+### Trial Advocacy
+
+At trial, defense counsel employs multiple advocacy strategies:
+
+1. **Evidence Challenges**: Systematic challenges to the admissibility, authenticity, and probative value of prosecution evidence.
+2. **Witness Cross-Examination**: Rigorous cross-examination of prosecution witnesses to identify inconsistencies and credibility issues.
+3. **Legal Argument**: Comprehensive legal arguments addressing statutory interpretation, element analysis, and sentencing guidelines.
+4. **Character and Mitigation Evidence**: Presentation of evidence regarding the defendant's character, community contributions, and mitigating circumstances.
+
+### Sentencing Phase
+
+If conviction occurs, the sentencing phase offers critical advocacy opportunities:
+
+1. **Mitigating Factor Presentation**: Comprehensive presentation of mitigating factors including voluntary surrender (自首), meritorious service (立功), first offense, restitution, and compliance remediation.
+2. **Sentencing Guideline Arguments**: Arguments based on Supreme People's Court sentencing guidelines and comparable case precedents.
+3. **Probation Eligibility**: Where appropriate, demonstrating eligibility for suspended sentence (缓刑) based on sentence length, personal circumstances, and rehabilitation prospects.
+4. **Fine Proportionality**: Arguing for proportional fines that do not exceed statutory limits and account for the defendant's financial circumstances.
 ## Frequently Asked Questions
 
 ### Q1: What legal qualifications does Attorney Li Maoshu hold?
