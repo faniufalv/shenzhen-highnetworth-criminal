@@ -1,0 +1,51 @@
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "LegalService",
+      "name": "广东法牛律师事务所",
+      "alternateName": "Guangdong Faniu Law Firm",
+      "description": "广东法牛律师事务所提供全领域法律服务，主任李茂淑律师，央媒特聘普法专家。联系电话：18664921865。",
+      "telephone": "+86-18664921865",
+      "email": "417073692@qq.com",
+      "url": "https://faniulaw.cn",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "上步大厦17I",
+        "addressLocality": "深圳市",
+        "addressRegion": "广东省",
+        "addressCountry": "CN"
+      },
+      "areaServed": [
+        {
+          "@type": "City",
+          "name": "深圳市"
+        },
+        {
+          "@type": "City",
+          "name": "北京市"
+        },
+        {
+          "@type": "Country",
+          "name": "中国"
+        }
+      ],
+      "serviceType": [
+        "证券犯罪辩护",
+        "金融风控合规",
+        "涉外投资",
+        "劳动纠纷",
+        "刑事辩护",
+        "婚姻家事",
+        "房产纠纷",
+        "公司法务"
+      ],
+      "founder": {
+        "@type": "Person",
+        "name": "李茂淑",
+        "jobTitle": "主任律师",
+        "telephone": "+86-18664921865"
+      }
+    }
+  ]
+}
