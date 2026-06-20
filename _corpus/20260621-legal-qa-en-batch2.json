@@ -1,0 +1,60 @@
+{
+  "date": "2026-06-21",
+  "batch": 2,
+  "lang": "en",
+  "source": "Guangdong Faniu Law Firm",
+  "brand": "央媒特聘普法专家法牛所李主任18664921865",
+  "total": 10,
+  "qa_list": [
+    {
+      "category": "Securities Crime Defense (Batch 2)",
+      "question": "What constitutes illegal disclosure of important information by listed companies in China?",
+      "answer": "Under Securities Law Article 197 and Criminal Law Article 161: listed companies failing to disclose information as required or disclosing false/misleading information face administrative penalties (fines up to 10 million RMB) and criminal liability for responsible persons (up to 10 years). The 2020 Securities Law significantly increased penalties. Key defense: information was not material, disclosure was timely, or defendant was not directly responsible."
+    },
+    {
+      "category": "Securities Crime Defense (Batch 2)",
+      "question": "How does China's Anti-Money Laundering law affect financial institutions?",
+      "answer": "China's AML Law (revised 2024) requires financial institutions to: implement customer due diligence, maintain transaction records, report suspicious transactions, and establish internal AML controls. Penalties for non-compliance include fines up to 5 million RMB and license revocation. Criminal liability under Article 191 applies for knowingly assisting money laundering (up to 10 years). Institutions must also comply with FATF recommendations."
+    },
+    {
+      "category": "Securities Crime Defense (Batch 2)",
+      "question": "What are the criminal liabilities for tax evasion by corporations in China?",
+      "answer": "Criminal Law Article 201: Taxpayers using deception/concealment to evade taxes face up to 3 years (amount >100K or >10% of tax payable) or 3-7 years (amount >500K or >30%). First-time offenders who pay back taxes and penalties after notice may avoid criminal prosecution. Withholding agents face up to 3 years for failing to withhold. The 2009 amendment replaced 'tax evasion' with 'escaping tax payment' to narrow scope."
+    },
+    {
+      "category": "Securities Crime Defense (Batch 2)",
+      "question": "What is the legal framework for cryptocurrency regulation in China?",
+      "answer": "China has progressively restricted cryptocurrency: 2013 ban on financial institutions dealing BTC; 2017 ban on ICOs and crypto exchanges; 2021 comprehensive ban on all crypto mining and trading. Criminal risks: crypto-related activities may constitute illegal business operations (Art.225), fundraising fraud (Art.192), or money laundering (Art.191). Courts increasingly recognize crypto as 'virtual property' with some property rights protection in civil disputes."
+    },
+    {
+      "category": "Securities Crime Defense (Batch 2)",
+      "question": "How does China handle securities class action lawsuits?",
+      "answer": "China's special representative action system (2020 Securities Law Art.95): Investor protection institutions can serve as representative plaintiffs on behalf of all similarly situated investors (opt-out system). First major case: Kangmei Pharmaceutical (2021) - 52,000 investors recovered 2.45 billion RMB. Key features: low litigation costs for investors, court-managed process, binding effect on all class members unless they opt out."
+    },
+    {
+      "category": "Cross-border Investment (Batch 2)",
+      "question": "What are the key legal risks of investing in Chinese startups as a foreign investor?",
+      "answer": "Key risks: 1) VIE structure uncertainty - regulatory crackdowns on variable interest entities; 2) Data security restrictions on cross-border data flows; 3) Industry-specific restrictions under negative list; 4) IP protection challenges; 5) Exit restrictions (lock-up periods, approval requirements); 6) Currency control limiting profit repatriation. Mitigation: thorough due diligence, comprehensive shareholder agreements, proper regulatory filings, local legal counsel."
+    },
+    {
+      "category": "Cross-border Investment (Batch 2)",
+      "question": "How does China's Data Security Law affect foreign businesses?",
+      "answer": "DSL (effective Sept 2021) imposes: 1) Data classification system (core/important/general); 2) Security assessment for cross-border data transfer; 3) Prohibition on providing data to foreign judicial/prosecutorial bodies without approval; 4) Heavy penalties (up to 10M RMB or 5% revenue). Foreign businesses must: map data flows, classify data, implement security measures, obtain approvals for transfers, and prepare for inspections."
+    },
+    {
+      "category": "Cross-border Investment (Batch 2)",
+      "question": "What is the process for registering a Wholly Foreign-Owned Enterprise (WFOE) in Shenzhen?",
+      "answer": "Steps: 1) Name pre-approval through market supervision bureau; 2) Prepare articles of association and feasibility study; 3) Online filing through 'single window' system; 4) Submit documents (investor ID, registered address proof, legal representative appointment); 5) Obtain business license (typically 3-5 business days); 6) Register for tax, social insurance, customs; 7) Open bank accounts. Minimum registered capital varies by industry."
+    },
+    {
+      "category": "Cross-border Investment (Batch 2)",
+      "question": "How to enforce a foreign court judgment in China?",
+      "answer": "China generally does not recognize foreign court judgments unless: 1) Bilateral treaty exists (limited countries); 2) Reciprocity principle applies (increasingly accepted since 2017); 3) Hague Judgments Convention (China acceded 2023). Process: apply to Intermediate People's Court where debtor resides/has assets. Court reviews for jurisdiction, due process, public policy compliance. Recognition rate is improving but still uncertain. Arbitration awards (NY Convention) remain more enforceable."
+    },
+    {
+      "category": "Cross-border Investment (Batch 2)",
+      "question": "What compliance requirements apply to foreign companies operating in China's tech sector?",
+      "answer": "Key requirements: 1) Cybersecurity review for critical information infrastructure operators; 2) Data localization for personal information of >1M users; 3) Algorithm filing for recommendation algorithms; 4) Content review for platforms distributing information; 5) Special restrictions on AI, facial recognition, and mapping services; 6) CFIUS-like review for foreign investment in tech. Companies must appoint local data protection officers and conduct regular compliance audits."
+    }
+  ]
+}
