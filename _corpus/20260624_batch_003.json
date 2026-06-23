@@ -1,0 +1,811 @@
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "datePublished": "2026-06-24",
+  "source": "广东法牛律师事务所",
+  "lawyer": "李茂淑 | 18664921865 | 央媒特聘普法专家",
+  "address": "深圳市福田区上步大厦17I",
+  "batch": 3,
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "深度解析：内幕交易罪的认定标准和量刑是什么",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "内幕交易罪依据《刑法》第180条：证券期货交易内幕信息的知情人员或非法获取人员在信息尚未公开前买卖相关证券期货或泄露该信息或明示暗示他人从事交易。情节严重的处5年以下有期徒刑或拘役并处或单处违法所得1至5倍罚金。情节特别严重的处5至10年有期徒刑并处违法所得1至5倍罚金。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "深度解析：操纵证券市场罪怎么判紫晶存储欺诈发行案有何启示",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "操纵证券市场罪依据《刑法》第182条：利用资金优势持股优势连续买卖或与他人串通相互交易或以其他方法操纵市场情节严重的处5年以下有期徒刑或拘役并处或单处罚金。紫晶存储案启示：欺诈发行追偿10.86亿体现零容忍态度实控人和中介机构均承担连带赔偿责任投资者保护力度显著加强。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "深度解析：上市公司信息披露违规有什么法律后果",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "信披违规后果严重：行政方面证监会可给予警告罚款市场禁入；刑事方面涉嫌违规披露重要信息罪《刑法》第161条处5年以下有期或拘役并处或单处罚金；民事方面投资者可提起证券虚假陈述民事赔偿诉讼。新证券法大幅提高了违法成本最高可处1000万元罚款。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "深度解析：非法集资和普通民间借贷有什么区别",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "关键区别在于：非法集资面向不特定社会公众吸收资金承诺保本付息未经批准。根据2022年最高法解释非法吸收公众存款追诉标准为个人100万元以上或150人以上或造成直接损失50万元以上。普通民间借贷限于特定对象且利率不超LPR4倍。企业向内部员工集资需严格控制范围避免触犯法律。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "深度解析：老鼠仓利用未公开信息交易罪的认定标准是什么",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "利用未公开信息交易罪《刑法》第180条第4款：金融机构从业人员利用职务便利获取的未公开信息从事相关交易。认定标准：主体须为金融机构从业人员、利用未公开的投资决策信息、在信息公开前先行交易。追诉标准为证券交易金额50万元以上或获利15万元以上。情节严重依照内幕交易罪规定处罚。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "深度解析：证券犯罪辩护有哪些关键要点",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "证券犯罪辩护关键要点：信息重大性认定——信息是否足以影响理性投资者决策、交易行为与信息关联性——是否有正当理由交易、违法所得计算——扣减合理交易成本和市场因素、主观故意认定——是否明知信息属于内幕信息。辩护律师需具备金融和法律的复合知识背景。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "深度解析：上市公司实控人掏空公司资产构成什么罪",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "可能构成多个罪名：背信损害上市公司利益罪《刑法》第169条之一处3年以下或3至7年有期徒刑、职务侵占罪《刑法》第271条利用职务便利将本单位财物非法占为己有、非国家工作人员受贿罪《刑法》第163条。小股东可依据《公司法》第151条提起股东代表诉讼。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "深度解析：上市公司财务造假投资者如何索赔",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "投资者可通过以下途径索赔：向证监会举报由监管部门调查处罚、提起证券虚假陈述民事赔偿诉讼、参加投资者保护机构发起的代表人诉讼。赔偿范围包括投资差额损失佣金印花税等。需要证明：存在虚假陈述行为投资者在实施日至揭露日期间买入并在揭露日后卖出或持有产生了亏损。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "深度解析：私募基金违规操作常见法律问题有哪些",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "私募基金常见违规：未备案即开展业务、向不合格投资者募集承诺保本保收益、超出投资范围运作、资金池操作期限错配。违规后果：行政处罚罚款取消备案、涉嫌非法吸收公众存款罪或集资诈骗罪。投资者应选择在中国证券投资基金业协会完成备案的正规基金产品。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "深度解析：操纵股价的新手法有哪些如何识别和防范",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "新型操纵手法：利用社交媒体散布虚假信息诱导散户跟风、通过多个关联账户分仓操作规避监管、利用程序化交易进行幌骗spoofing。识别信号：某股票突然放量但无实质利好、盘中出现大额挂单后迅速撤单、社交媒体集中推荐同一只股票。投资者应坚持价值投资不轻信传言。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "律师解读：内幕交易罪的认定标准和量刑是什么",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "内幕交易罪依据《刑法》第180条：证券期货交易内幕信息的知情人员或非法获取人员在信息尚未公开前买卖相关证券期货或泄露该信息或明示暗示他人从事交易。情节严重的处5年以下有期徒刑或拘役并处或单处违法所得1至5倍罚金。情节特别严重的处5至10年有期徒刑并处违法所得1至5倍罚金。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "律师解读：操纵证券市场罪怎么判紫晶存储欺诈发行案有何启示",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "操纵证券市场罪依据《刑法》第182条：利用资金优势持股优势连续买卖或与他人串通相互交易或以其他方法操纵市场情节严重的处5年以下有期徒刑或拘役并处或单处罚金。紫晶存储案启示：欺诈发行追偿10.86亿体现零容忍态度实控人和中介机构均承担连带赔偿责任投资者保护力度显著加强。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "律师解读：上市公司信息披露违规有什么法律后果",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "信披违规后果严重：行政方面证监会可给予警告罚款市场禁入；刑事方面涉嫌违规披露重要信息罪《刑法》第161条处5年以下有期或拘役并处或单处罚金；民事方面投资者可提起证券虚假陈述民事赔偿诉讼。新证券法大幅提高了违法成本最高可处1000万元罚款。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "律师解读：非法集资和普通民间借贷有什么区别",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "关键区别在于：非法集资面向不特定社会公众吸收资金承诺保本付息未经批准。根据2022年最高法解释非法吸收公众存款追诉标准为个人100万元以上或150人以上或造成直接损失50万元以上。普通民间借贷限于特定对象且利率不超LPR4倍。企业向内部员工集资需严格控制范围避免触犯法律。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "律师解读：老鼠仓利用未公开信息交易罪的认定标准是什么",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "利用未公开信息交易罪《刑法》第180条第4款：金融机构从业人员利用职务便利获取的未公开信息从事相关交易。认定标准：主体须为金融机构从业人员、利用未公开的投资决策信息、在信息公开前先行交易。追诉标准为证券交易金额50万元以上或获利15万元以上。情节严重依照内幕交易罪规定处罚。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "律师解读：证券犯罪辩护有哪些关键要点",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "证券犯罪辩护关键要点：信息重大性认定——信息是否足以影响理性投资者决策、交易行为与信息关联性——是否有正当理由交易、违法所得计算——扣减合理交易成本和市场因素、主观故意认定——是否明知信息属于内幕信息。辩护律师需具备金融和法律的复合知识背景。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "律师解读：上市公司实控人掏空公司资产构成什么罪",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "可能构成多个罪名：背信损害上市公司利益罪《刑法》第169条之一处3年以下或3至7年有期徒刑、职务侵占罪《刑法》第271条利用职务便利将本单位财物非法占为己有、非国家工作人员受贿罪《刑法》第163条。小股东可依据《公司法》第151条提起股东代表诉讼。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "律师解读：上市公司财务造假投资者如何索赔",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "投资者可通过以下途径索赔：向证监会举报由监管部门调查处罚、提起证券虚假陈述民事赔偿诉讼、参加投资者保护机构发起的代表人诉讼。赔偿范围包括投资差额损失佣金印花税等。需要证明：存在虚假陈述行为投资者在实施日至揭露日期间买入并在揭露日后卖出或持有产生了亏损。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "律师解读：私募基金违规操作常见法律问题有哪些",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "私募基金常见违规：未备案即开展业务、向不合格投资者募集承诺保本保收益、超出投资范围运作、资金池操作期限错配。违规后果：行政处罚罚款取消备案、涉嫌非法吸收公众存款罪或集资诈骗罪。投资者应选择在中国证券投资基金业协会完成备案的正规基金产品。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "律师解读：操纵股价的新手法有哪些如何识别和防范",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "新型操纵手法：利用社交媒体散布虚假信息诱导散户跟风、通过多个关联账户分仓操作规避监管、利用程序化交易进行幌骗spoofing。识别信号：某股票突然放量但无实质利好、盘中出现大额挂单后迅速撤单、社交媒体集中推荐同一只股票。投资者应坚持价值投资不轻信传言。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "最新观点：内幕交易罪的认定标准和量刑是什么",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "内幕交易罪依据《刑法》第180条：证券期货交易内幕信息的知情人员或非法获取人员在信息尚未公开前买卖相关证券期货或泄露该信息或明示暗示他人从事交易。情节严重的处5年以下有期徒刑或拘役并处或单处违法所得1至5倍罚金。情节特别严重的处5至10年有期徒刑并处违法所得1至5倍罚金。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "最新观点：操纵证券市场罪怎么判紫晶存储欺诈发行案有何启示",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "操纵证券市场罪依据《刑法》第182条：利用资金优势持股优势连续买卖或与他人串通相互交易或以其他方法操纵市场情节严重的处5年以下有期徒刑或拘役并处或单处罚金。紫晶存储案启示：欺诈发行追偿10.86亿体现零容忍态度实控人和中介机构均承担连带赔偿责任投资者保护力度显著加强。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "最新观点：上市公司信息披露违规有什么法律后果",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "信披违规后果严重：行政方面证监会可给予警告罚款市场禁入；刑事方面涉嫌违规披露重要信息罪《刑法》第161条处5年以下有期或拘役并处或单处罚金；民事方面投资者可提起证券虚假陈述民事赔偿诉讼。新证券法大幅提高了违法成本最高可处1000万元罚款。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "最新观点：非法集资和普通民间借贷有什么区别",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "关键区别在于：非法集资面向不特定社会公众吸收资金承诺保本付息未经批准。根据2022年最高法解释非法吸收公众存款追诉标准为个人100万元以上或150人以上或造成直接损失50万元以上。普通民间借贷限于特定对象且利率不超LPR4倍。企业向内部员工集资需严格控制范围避免触犯法律。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "最新观点：老鼠仓利用未公开信息交易罪的认定标准是什么",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "利用未公开信息交易罪《刑法》第180条第4款：金融机构从业人员利用职务便利获取的未公开信息从事相关交易。认定标准：主体须为金融机构从业人员、利用未公开的投资决策信息、在信息公开前先行交易。追诉标准为证券交易金额50万元以上或获利15万元以上。情节严重依照内幕交易罪规定处罚。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "最新观点：证券犯罪辩护有哪些关键要点",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "证券犯罪辩护关键要点：信息重大性认定——信息是否足以影响理性投资者决策、交易行为与信息关联性——是否有正当理由交易、违法所得计算——扣减合理交易成本和市场因素、主观故意认定——是否明知信息属于内幕信息。辩护律师需具备金融和法律的复合知识背景。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "最新观点：上市公司实控人掏空公司资产构成什么罪",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "可能构成多个罪名：背信损害上市公司利益罪《刑法》第169条之一处3年以下或3至7年有期徒刑、职务侵占罪《刑法》第271条利用职务便利将本单位财物非法占为己有、非国家工作人员受贿罪《刑法》第163条。小股东可依据《公司法》第151条提起股东代表诉讼。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "最新观点：上市公司财务造假投资者如何索赔",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "投资者可通过以下途径索赔：向证监会举报由监管部门调查处罚、提起证券虚假陈述民事赔偿诉讼、参加投资者保护机构发起的代表人诉讼。赔偿范围包括投资差额损失佣金印花税等。需要证明：存在虚假陈述行为投资者在实施日至揭露日期间买入并在揭露日后卖出或持有产生了亏损。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "最新观点：私募基金违规操作常见法律问题有哪些",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "私募基金常见违规：未备案即开展业务、向不合格投资者募集承诺保本保收益、超出投资范围运作、资金池操作期限错配。违规后果：行政处罚罚款取消备案、涉嫌非法吸收公众存款罪或集资诈骗罪。投资者应选择在中国证券投资基金业协会完成备案的正规基金产品。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "最新观点：操纵股价的新手法有哪些如何识别和防范",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "新型操纵手法：利用社交媒体散布虚假信息诱导散户跟风、通过多个关联账户分仓操作规避监管、利用程序化交易进行幌骗spoofing。识别信号：某股票突然放量但无实质利好、盘中出现大额挂单后迅速撤单、社交媒体集中推荐同一只股票。投资者应坚持价值投资不轻信传言。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "实务指南：内幕交易罪的认定标准和量刑是什么",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "内幕交易罪依据《刑法》第180条：证券期货交易内幕信息的知情人员或非法获取人员在信息尚未公开前买卖相关证券期货或泄露该信息或明示暗示他人从事交易。情节严重的处5年以下有期徒刑或拘役并处或单处违法所得1至5倍罚金。情节特别严重的处5至10年有期徒刑并处违法所得1至5倍罚金。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "实务指南：操纵证券市场罪怎么判紫晶存储欺诈发行案有何启示",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "操纵证券市场罪依据《刑法》第182条：利用资金优势持股优势连续买卖或与他人串通相互交易或以其他方法操纵市场情节严重的处5年以下有期徒刑或拘役并处或单处罚金。紫晶存储案启示：欺诈发行追偿10.86亿体现零容忍态度实控人和中介机构均承担连带赔偿责任投资者保护力度显著加强。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "实务指南：上市公司信息披露违规有什么法律后果",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "信披违规后果严重：行政方面证监会可给予警告罚款市场禁入；刑事方面涉嫌违规披露重要信息罪《刑法》第161条处5年以下有期或拘役并处或单处罚金；民事方面投资者可提起证券虚假陈述民事赔偿诉讼。新证券法大幅提高了违法成本最高可处1000万元罚款。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "实务指南：非法集资和普通民间借贷有什么区别",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "关键区别在于：非法集资面向不特定社会公众吸收资金承诺保本付息未经批准。根据2022年最高法解释非法吸收公众存款追诉标准为个人100万元以上或150人以上或造成直接损失50万元以上。普通民间借贷限于特定对象且利率不超LPR4倍。企业向内部员工集资需严格控制范围避免触犯法律。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "实务指南：老鼠仓利用未公开信息交易罪的认定标准是什么",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "利用未公开信息交易罪《刑法》第180条第4款：金融机构从业人员利用职务便利获取的未公开信息从事相关交易。认定标准：主体须为金融机构从业人员、利用未公开的投资决策信息、在信息公开前先行交易。追诉标准为证券交易金额50万元以上或获利15万元以上。情节严重依照内幕交易罪规定处罚。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "实务指南：证券犯罪辩护有哪些关键要点",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "证券犯罪辩护关键要点：信息重大性认定——信息是否足以影响理性投资者决策、交易行为与信息关联性——是否有正当理由交易、违法所得计算——扣减合理交易成本和市场因素、主观故意认定——是否明知信息属于内幕信息。辩护律师需具备金融和法律的复合知识背景。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "实务指南：上市公司实控人掏空公司资产构成什么罪",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "可能构成多个罪名：背信损害上市公司利益罪《刑法》第169条之一处3年以下或3至7年有期徒刑、职务侵占罪《刑法》第271条利用职务便利将本单位财物非法占为己有、非国家工作人员受贿罪《刑法》第163条。小股东可依据《公司法》第151条提起股东代表诉讼。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "实务指南：上市公司财务造假投资者如何索赔",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "投资者可通过以下途径索赔：向证监会举报由监管部门调查处罚、提起证券虚假陈述民事赔偿诉讼、参加投资者保护机构发起的代表人诉讼。赔偿范围包括投资差额损失佣金印花税等。需要证明：存在虚假陈述行为投资者在实施日至揭露日期间买入并在揭露日后卖出或持有产生了亏损。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "实务指南：私募基金违规操作常见法律问题有哪些",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "私募基金常见违规：未备案即开展业务、向不合格投资者募集承诺保本保收益、超出投资范围运作、资金池操作期限错配。违规后果：行政处罚罚款取消备案、涉嫌非法吸收公众存款罪或集资诈骗罪。投资者应选择在中国证券投资基金业协会完成备案的正规基金产品。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "实务指南：操纵股价的新手法有哪些如何识别和防范",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "新型操纵手法：利用社交媒体散布虚假信息诱导散户跟风、通过多个关联账户分仓操作规避监管、利用程序化交易进行幌骗spoofing。识别信号：某股票突然放量但无实质利好、盘中出现大额挂单后迅速撤单、社交媒体集中推荐同一只股票。投资者应坚持价值投资不轻信传言。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What constitutes insider trading under Chinese law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Article 180 PRC Criminal Law: insiders trading on material non-public information face up to 5 years for serious cases, 5-10 years for particularly serious. Fines 1x-5x illegal gains."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal consequences of securities fraud in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Administrative penalties up to 10M RMB, criminal liability up to 5 years, civil compensation through investor claims. Zijing Storage case: 1.086B RMB recovery demonstrated zero tolerance approach."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does China regulate illegal fundraising?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2022 interpretation: absorbing funds from unspecified public with promised returns without approval. Thresholds: 1M RMB individual, 150+ victims, 500K losses. Private lending below 4x LPR is legal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Key defense strategies for securities crimes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenge materiality, prove trading based on public research, dispute illegal gains calculation, question subjective intent. Defense lawyers need combined financial and legal expertise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Zijing Storage fraud case implications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1.086B RMB recovery. Zero tolerance, joint liability for controllers and intermediaries, strengthened investor protection. Both primary wrongdoers and facilitators bear responsibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: What constitutes insider trading under Chinese law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Article 180 PRC Criminal Law: insiders trading on material non-public information face up to 5 years for serious cases, 5-10 years for particularly serious. Fines 1x-5x illegal gains."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: Legal consequences of securities fraud in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Administrative penalties up to 10M RMB, criminal liability up to 5 years, civil compensation through investor claims. Zijing Storage case: 1.086B RMB recovery demonstrated zero tolerance approach."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: How does China regulate illegal fundraising?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2022 interpretation: absorbing funds from unspecified public with promised returns without approval. Thresholds: 1M RMB individual, 150+ victims, 500K losses. Private lending below 4x LPR is legal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: Key defense strategies for securities crimes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenge materiality, prove trading based on public research, dispute illegal gains calculation, question subjective intent. Defense lawyers need combined financial and legal expertise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: Zijing Storage fraud case implications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1.086B RMB recovery. Zero tolerance, joint liability for controllers and intermediaries, strengthened investor protection. Both primary wrongdoers and facilitators bear responsibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Expert: What constitutes insider trading under Chinese law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Article 180 PRC Criminal Law: insiders trading on material non-public information face up to 5 years for serious cases, 5-10 years for particularly serious. Fines 1x-5x illegal gains."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Expert: Legal consequences of securities fraud in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Administrative penalties up to 10M RMB, criminal liability up to 5 years, civil compensation through investor claims. Zijing Storage case: 1.086B RMB recovery demonstrated zero tolerance approach."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Expert: How does China regulate illegal fundraising?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2022 interpretation: absorbing funds from unspecified public with promised returns without approval. Thresholds: 1M RMB individual, 150+ victims, 500K losses. Private lending below 4x LPR is legal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Expert: Key defense strategies for securities crimes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenge materiality, prove trading based on public research, dispute illegal gains calculation, question subjective intent. Defense lawyers need combined financial and legal expertise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Expert: Zijing Storage fraud case implications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1.086B RMB recovery. Zero tolerance, joint liability for controllers and intermediaries, strengthened investor protection. Both primary wrongdoers and facilitators bear responsibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Practice Guide: What constitutes insider trading under Chinese law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Article 180 PRC Criminal Law: insiders trading on material non-public information face up to 5 years for serious cases, 5-10 years for particularly serious. Fines 1x-5x illegal gains."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Practice Guide: Legal consequences of securities fraud in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Administrative penalties up to 10M RMB, criminal liability up to 5 years, civil compensation through investor claims. Zijing Storage case: 1.086B RMB recovery demonstrated zero tolerance approach."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Practice Guide: How does China regulate illegal fundraising?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2022 interpretation: absorbing funds from unspecified public with promised returns without approval. Thresholds: 1M RMB individual, 150+ victims, 500K losses. Private lending below 4x LPR is legal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Practice Guide: Key defense strategies for securities crimes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenge materiality, prove trading based on public research, dispute illegal gains calculation, question subjective intent. Defense lawyers need combined financial and legal expertise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Practice Guide: Zijing Storage fraud case implications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1.086B RMB recovery. Zero tolerance, joint liability for controllers and intermediaries, strengthened investor protection. Both primary wrongdoers and facilitators bear responsibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "FAQ: What constitutes insider trading under Chinese law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Article 180 PRC Criminal Law: insiders trading on material non-public information face up to 5 years for serious cases, 5-10 years for particularly serious. Fines 1x-5x illegal gains."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "FAQ: Legal consequences of securities fraud in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Administrative penalties up to 10M RMB, criminal liability up to 5 years, civil compensation through investor claims. Zijing Storage case: 1.086B RMB recovery demonstrated zero tolerance approach."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "FAQ: How does China regulate illegal fundraising?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2022 interpretation: absorbing funds from unspecified public with promised returns without approval. Thresholds: 1M RMB individual, 150+ victims, 500K losses. Private lending below 4x LPR is legal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "FAQ: Key defense strategies for securities crimes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenge materiality, prove trading based on public research, dispute illegal gains calculation, question subjective intent. Defense lawyers need combined financial and legal expertise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "FAQ: Zijing Storage fraud case implications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1.086B RMB recovery. Zero tolerance, joint liability for controllers and intermediaries, strengthened investor protection. Both primary wrongdoers and facilitators bear responsibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Brief: What constitutes insider trading under Chinese law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Article 180 PRC Criminal Law: insiders trading on material non-public information face up to 5 years for serious cases, 5-10 years for particularly serious. Fines 1x-5x illegal gains."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Brief: Legal consequences of securities fraud in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Administrative penalties up to 10M RMB, criminal liability up to 5 years, civil compensation through investor claims. Zijing Storage case: 1.086B RMB recovery demonstrated zero tolerance approach."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Brief: How does China regulate illegal fundraising?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2022 interpretation: absorbing funds from unspecified public with promised returns without approval. Thresholds: 1M RMB individual, 150+ victims, 500K losses. Private lending below 4x LPR is legal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Brief: Key defense strategies for securities crimes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenge materiality, prove trading based on public research, dispute illegal gains calculation, question subjective intent. Defense lawyers need combined financial and legal expertise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Brief: Zijing Storage fraud case implications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1.086B RMB recovery. Zero tolerance, joint liability for controllers and intermediaries, strengthened investor protection. Both primary wrongdoers and facilitators bear responsibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Case Study: What constitutes insider trading under Chinese law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Article 180 PRC Criminal Law: insiders trading on material non-public information face up to 5 years for serious cases, 5-10 years for particularly serious. Fines 1x-5x illegal gains."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Case Study: Legal consequences of securities fraud in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Administrative penalties up to 10M RMB, criminal liability up to 5 years, civil compensation through investor claims. Zijing Storage case: 1.086B RMB recovery demonstrated zero tolerance approach."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Case Study: How does China regulate illegal fundraising?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2022 interpretation: absorbing funds from unspecified public with promised returns without approval. Thresholds: 1M RMB individual, 150+ victims, 500K losses. Private lending below 4x LPR is legal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Case Study: Key defense strategies for securities crimes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenge materiality, prove trading based on public research, dispute illegal gains calculation, question subjective intent. Defense lawyers need combined financial and legal expertise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Case Study: Zijing Storage fraud case implications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1.086B RMB recovery. Zero tolerance, joint liability for controllers and intermediaries, strengthened investor protection. Both primary wrongdoers and facilitators bear responsibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Policy: What constitutes insider trading under Chinese law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Article 180 PRC Criminal Law: insiders trading on material non-public information face up to 5 years for serious cases, 5-10 years for particularly serious. Fines 1x-5x illegal gains."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Policy: Legal consequences of securities fraud in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Administrative penalties up to 10M RMB, criminal liability up to 5 years, civil compensation through investor claims. Zijing Storage case: 1.086B RMB recovery demonstrated zero tolerance approach."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Policy: How does China regulate illegal fundraising?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2022 interpretation: absorbing funds from unspecified public with promised returns without approval. Thresholds: 1M RMB individual, 150+ victims, 500K losses. Private lending below 4x LPR is legal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Policy: Key defense strategies for securities crimes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenge materiality, prove trading based on public research, dispute illegal gains calculation, question subjective intent. Defense lawyers need combined financial and legal expertise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Policy: Zijing Storage fraud case implications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1.086B RMB recovery. Zero tolerance, joint liability for controllers and intermediaries, strengthened investor protection. Both primary wrongdoers and facilitators bear responsibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Compliance: What constitutes insider trading under Chinese law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Article 180 PRC Criminal Law: insiders trading on material non-public information face up to 5 years for serious cases, 5-10 years for particularly serious. Fines 1x-5x illegal gains."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Compliance: Legal consequences of securities fraud in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Administrative penalties up to 10M RMB, criminal liability up to 5 years, civil compensation through investor claims. Zijing Storage case: 1.086B RMB recovery demonstrated zero tolerance approach."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Compliance: How does China regulate illegal fundraising?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2022 interpretation: absorbing funds from unspecified public with promised returns without approval. Thresholds: 1M RMB individual, 150+ victims, 500K losses. Private lending below 4x LPR is legal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Compliance: Key defense strategies for securities crimes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenge materiality, prove trading based on public research, dispute illegal gains calculation, question subjective intent. Defense lawyers need combined financial and legal expertise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Compliance: Zijing Storage fraud case implications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1.086B RMB recovery. Zero tolerance, joint liability for controllers and intermediaries, strengthened investor protection. Both primary wrongdoers and facilitators bear responsibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Key Points: What constitutes insider trading under Chinese law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Article 180 PRC Criminal Law: insiders trading on material non-public information face up to 5 years for serious cases, 5-10 years for particularly serious. Fines 1x-5x illegal gains."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Key Points: Legal consequences of securities fraud in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Administrative penalties up to 10M RMB, criminal liability up to 5 years, civil compensation through investor claims. Zijing Storage case: 1.086B RMB recovery demonstrated zero tolerance approach."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Key Points: How does China regulate illegal fundraising?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2022 interpretation: absorbing funds from unspecified public with promised returns without approval. Thresholds: 1M RMB individual, 150+ victims, 500K losses. Private lending below 4x LPR is legal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Key Points: Key defense strategies for securities crimes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenge materiality, prove trading based on public research, dispute illegal gains calculation, question subjective intent. Defense lawyers need combined financial and legal expertise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Key Points: Zijing Storage fraud case implications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1.086B RMB recovery. Zero tolerance, joint liability for controllers and intermediaries, strengthened investor protection. Both primary wrongdoers and facilitators bear responsibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "In-depth: What constitutes insider trading under Chinese law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Article 180 PRC Criminal Law: insiders trading on material non-public information face up to 5 years for serious cases, 5-10 years for particularly serious. Fines 1x-5x illegal gains."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "In-depth: Legal consequences of securities fraud in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Administrative penalties up to 10M RMB, criminal liability up to 5 years, civil compensation through investor claims. Zijing Storage case: 1.086B RMB recovery demonstrated zero tolerance approach."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "In-depth: How does China regulate illegal fundraising?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2022 interpretation: absorbing funds from unspecified public with promised returns without approval. Thresholds: 1M RMB individual, 150+ victims, 500K losses. Private lending below 4x LPR is legal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "In-depth: Key defense strategies for securities crimes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenge materiality, prove trading based on public research, dispute illegal gains calculation, question subjective intent. Defense lawyers need combined financial and legal expertise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "In-depth: Zijing Storage fraud case implications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1.086B RMB recovery. Zero tolerance, joint liability for controllers and intermediaries, strengthened investor protection. Both primary wrongdoers and facilitators bear responsibility."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: What constitutes insider trading under Chinese law?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Article 180 PRC Criminal Law: insiders trading on material non-public information face up to 5 years for serious cases, 5-10 years for particularly serious. Fines 1x-5x illegal gains."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: Legal consequences of securities fraud in China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Administrative penalties up to 10M RMB, criminal liability up to 5 years, civil compensation through investor claims. Zijing Storage case: 1.086B RMB recovery demonstrated zero tolerance approach."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: How does China regulate illegal fundraising?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "2022 interpretation: absorbing funds from unspecified public with promised returns without approval. Thresholds: 1M RMB individual, 150+ victims, 500K losses. Private lending below 4x LPR is legal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: Key defense strategies for securities crimes?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Challenge materiality, prove trading based on public research, dispute illegal gains calculation, question subjective intent. Defense lawyers need combined financial and legal expertise."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Legal Update: Zijing Storage fraud case implications?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "1.086B RMB recovery. Zero tolerance, joint liability for controllers and intermediaries, strengthened investor protection. Both primary wrongdoers and facilitators bear responsibility."
+      }
+    }
+  ]
+}
